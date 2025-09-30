@@ -1,73 +1,47 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VYCD50T6)
-# PPOL 5203 - Problem Set 1
+Overview
 
-This repository contains your first problem set for Data Science I: Foundations. 
+This repository contains Problem Set 1 for PPOL 5203 Data Science I: Foundations. The notebook (JohnDeng_ps_set1.ipynb) includes four questions designed to build hands-on skills in Git, reproducible research practices, and project organization.
 
+Contents
 
-## General Rules for Problem Sets
+JohnDeng_ps_set1.ipynb — Notebook with all questions and solutions.
 
+README.md — Documentation and summary of the problem set.
 
-- (i) all code must run;
+Supporting files/folders — Created as part of specific tasks (e.g., simulated GitHub repo, text files, certificates).
 
-- (ii) solutions should be readable
+Question 1 (30 pts) — Reproducible Research Setup
 
-    -   Code should be thoroughly commented (the Professor/TA should be able to understand the code's purpose by reading the comment),
-    -   Coding solutions should be broken up into individual code chunks in Jupyter/R Markdown notebooks, not clumped together into one large code chunk (See examples in class or reach out to the TA/Professor if this is unclear),
-    -   Each student defined function must contain a docstring explaining what the function does, each input argument, and what the function returns;
+Task: Simulate a GitHub repository for a published article.
 
+What was done: Created a folder (question-01) containing placeholders for all project files — scripts, data (raw and processed), and figures. The structure follows best practices for project management and reproducibility.
 
+Question 2 (30 pts) — Practicing Git Commands
 
-- (iii) Commentary, responses, and/or solutions should all be written in Markdown and explain sufficiently the outputs.
+Task: Work through a sequence of Git operations including staging, committing, branching, merging, and resolving conflicts.
 
-- (iv) All solutions  must be completed in Python.
+What was done:
 
+Created a text file solutions_for_question_2.txt with favorite books.
 
-There is no Python in this problem set. So take these rules as a general instruction. 
+Made commits on different branches (main and wish_to).
 
+Introduced and resolved a merge conflict manually.
 
-## Step by Step for the Problem Set. 
+Documented all Git commands used and described the timeline of changes.
 
-You should be familiar with the steps required to work on this repository. If not, you will be after completing this assignment and the in-class exercise from this week. 
+Question 3 (30 pts) — Git Scavenger Hunt
 
-If you follow the steps below, you should be able to solve all required tasks. 
+Task: Solve challenges in an external GitHub-based scavenger hunt (Git Scavenger Hunt Repo
+).
 
-## Working locally in your assignment
+What was done: Followed the linked repository’s challenges, explored Git history, and documented answers directly in the notebook.
 
-### step 1
+Question 4 (10 pts) — DataCamp Git Training
 
-First step is to clone your assignment to your local machine
+Task: Complete at least one course from the Git track on DataCamp.
 
-```
-git clone <repository_link>
-```
-
-This will create a folder in your local working directory. This folder is a local github repository. You should `cd` into that folder. 
-
-### step 2
-
-Your problem set is fully described in the notebook `_ps_set1.ipynb`. 
-
-You can open `ipynb` using jupyter notebook. 
-
-Read your assignment carefully. 
-
-You will be required to provide responses in the notebook and also creating new folders in this repository. 
-
-
-### step 3
-
-Submit your assignment via github, via staging, commit and push. 
-
-- Remember: this is an individual assignment.
-- Your deadline for submission is Friday, September 26, until 23:59
-- I will consider your last commit as your final submission.
-- Save your notebook as `<_yourname__ps_set1.ipynb>`
-
-
-If you have any questions, ask me or your TA. 
-
-
-Enjoy!!
+What was done: Finished a Git course and submitted proof of completion (PDF certificate) as part of the repository.
 
 
 
